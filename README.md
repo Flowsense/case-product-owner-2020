@@ -44,7 +44,8 @@ Pensando na estratégia de produto, parece ser algo que faz bastante sentido: "S
 O e-mail, por outro lado, foge dos formatos que estamos acostumados a orquestrar na Flowsense. Nas notificações push, por exemplo, basta pensar em uma mensagem curta, para quem enviar e quando. Assim, a Flowsense precisaria construir conhecimento em alguns assuntos do canal "e-mail": Como não cair no spam; que o e-mail abra adequadamente em todos os navegadores; tamanho de tela; melhores práticas de envio; etc.
 
 ## A entrega
-Basedo no racional acima gostaríamos de ver uma apresenteção (em PDF) que mostrasse:
+Basedo no racional acima gostaríamos de ver uma apresentação (em PDF) que mostrasse:
+
 - Estratégia para validarmos se faz sentido investirmos no e-mail como mais um canal para nossos clientes se comunicarem com seus usuários
 - Proposta de roadmap de implementação do e-mail como canal na Flowsense
 
