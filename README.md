@@ -23,7 +23,7 @@ Assim, somos uma empresa B2B, mas que precisa entender estar atento aos desafios
 2. Smart Fences: enviar uma comunicação para usuário quando o mesmo entra/sai de uma localização geográfica. Existem regras de negócio avançadas para evitar que o usuário seja 'bombardeado' com muitas notificações.
 3. Inapp analytics: capturamos ações que o usuário faz dentro do app e mostramos ao cliente de forma agregada
 4. Automação de campanhas: enviar uma comunicação quando o usuário faz uma ação dentro do app (ou uma sequência mais complexa de ações no app)
-5. Jornada do usuário: um caso de uso específico de "automações de campanhas". Ações que o usuário faz dentro do app são mapeadas e unificadas para se converterem em uma 'jornada'. Nosso cliente pode programar uma régua de comunicação que é ativada quando o usuário entra naquela etapa e cancelada quando muda de etapa da jornada.
+5. Jornada do usuário: um caso de uso específico de "automação de campanhas". Ações que o usuário faz dentro do app são mapeadas e unificadas para se converterem em uma 'jornada'. Nosso cliente pode programar uma régua de comunicação que é ativada quando o usuário entra naquela etapa e cancelada quando muda de etapa da jornada.
 
 ### Canais
 As features indicadas acimas citam o envio de uma 'comunicação'. Canais são as diferentes formas que oferecemos ao cliente para que possa se comunicar com o usuário.
@@ -44,9 +44,9 @@ Pensando na estratégia de produto, parece ser algo que faz bastante sentido: "S
 O e-mail, por outro lado, foge dos formatos que estamos acostumados a orquestrar na Flowsense. Nas notificações push, por exemplo, basta pensar em uma mensagem curta, para quem enviar e quando. Assim, a Flowsense precisaria construir conhecimento em alguns assuntos do canal "e-mail": Como não cair no spam; que o e-mail abra adequadamente em todos os navegadores; tamanho de tela; melhores práticas de envio; etc.
 
 ## A entrega
-Basedo no racional acima gostaríamos de ver uma apresentação (em PDF) que mostrasse:
+Baseado no racional acima gostaríamos de ver uma apresentação (em PDF) que mostrasse:
 
-- Estratégia para validarmos se faz sentido investirmos no e-mail como mais um canal para nossos clientes se comunicarem com seus usuários
+- Estratégia para validar se faz sentido investirmos no e-mail como mais um canal para nossos clientes se comunicarem com seus usuários
 - Proposta de roadmap de implementação do e-mail como canal na Flowsense
 
 
