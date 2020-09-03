@@ -36,6 +36,21 @@ As features indicadas acimas citam o envio de uma 'comunicação'. Canais são a
 Para propósito específico deste case, pensar que nossa persona-alvo é um aplicativo B2C mobile first do segmento de mobilidade urbana.
 
 # Case
-Na busca por melhorar a nossa entrega de valor, em conversas com clientes (e potenciais clientes), temos percebido um certo interesse para que a Flowsense ofereça o e-mail como mais um canal para se comunicar para o usuário
+## Racional
+Na busca por melhorar a nossa entrega de valor, em conversas com clientes (e potenciais clientes), temos percebido um certo interesse para que a Flowsense ofereça o e-mail como mais um canal para que nosso cliente possa se comunicar com seu usuário. 
+
+Pensando na estratégia de produto, parece ser algo que faz bastante sentido: "Ser a empresa confiável para despertar conexões entre pessoas e organizações usando dados de forma inteligente e humana". Além de entendermos que e-mail pode ser um formato mais pertinente para alguns tipos de comunicação, alguns estudos já indicam que há uma certa preferência para que parte do contato do aplicativo com o usuário seja pelo e-mail.
+
+O e-mail, por outro lado, foge dos formatos que estamos acostumados a orquestrar na Flowsense. Nas notificações push, por exemplo, basta pensar em uma mensagem curta, para quem enviar e quando. Assim, a Flowsense precisaria construir conhecimento em alguns assuntos do canal "e-mail": Como não cair no spam; que o e-mail abra adequadamente em todos os navegadores; tamanho de tela; melhores práticas de envio; etc.
+
+## A entrega
+Basedo no racional acima gostaríamos de ver uma apresenteção (em PDF) que mostrasse:
+- Estratégia para validarmos se faz sentido investirmos no e-mail como mais um canal para nossos clientes se comunicarem com seus usuários
+- Proposta de roadmap de implementação do e-mail como canal na Flowsense
+
+
+Qualquer dúvida, entrar em contato com nadav@flowsense.com.br
+
+
 
 
