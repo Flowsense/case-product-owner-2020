@@ -49,9 +49,11 @@ Baseado no racional acima gostaríamos de ver uma apresentação (em PDF) que mo
 - Estratégia para validar se faz sentido investirmos no e-mail como mais um canal para nossos clientes se comunicarem com seus usuários
 - Proposta de roadmap de implementação do e-mail como canal na Flowsense
 
+### Como entregar
+Enviar por e-mail para: nadav@flowsense.com.br
+Assunto: Case PO - <inserir teu nome completo>
+Por favor, também anexar o CV, ok?
+
+
 
 Qualquer dúvida, entrar em contato com nadav@flowsense.com.br
-
-
-
-
